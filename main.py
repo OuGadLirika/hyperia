@@ -12,7 +12,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-
+print("\n████████████████████████████████████████████████████████████████████\n█▄─▄▄▀█─▄▄─█▄─▀█▀─▄██▀▄─██▄─▀█▄─▄███▄─▄▄─█▄─▄▄─█▄─▀█▄─▄█▄─▄▄─█▄─█─▄█\n██─▄─▄█─██─██─█▄█─███─▀─███─█▄▀─█████─▄████─▄█▀██─█▄▀─███─▄█▀██▄▀▄██\n▀▄▄▀▄▄▀▄▄▄▄▀▄▄▄▀▄▄▄▀▄▄▀▄▄▀▄▄▄▀▀▄▄▀▀▀▄▄▄▀▀▀▄▄▄▄▄▀▄▄▄▀▀▄▄▀▄▄▄▄▄▀▀▀▄▀▀▀")
 service = Service("/usr/local/bin/chromedriver")
 class ProspektScraper:
     BASE_URL = "https://www.prospektmaschine.de"
@@ -26,11 +26,11 @@ class ProspektScraper:
         from webdriver_manager.chrome import ChromeDriverManager
 
         options = webdriver.ChromeOptions()
-        options.add_argument("--headless")  # Запуск без интерфейса
+        options.add_argument("--headless")
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
 
-        # Используем WebDriver Manager для автоматической установки драйвера
+        # auto download
         self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
     def fetch_page(self, url):
@@ -38,7 +38,7 @@ class ProspektScraper:
             self.driver.get(url)
             WebDriverWait(self.driver, 10).until(
                 EC.presence_of_element_located((By.CLASS_NAME, "grid-item"))
-            )  # Ждём появления элементов
+            )  # cakame
             return self.driver.page_source
         except Exception as e:
             print(f"Error fetching page {url}: {e}")
@@ -60,30 +60,29 @@ class ProspektScraper:
         soup = BeautifulSoup(html, 'html.parser')
         prospekts = []
         
-        items = soup.find_all('div', class_='grid-item box blue')[:2]  # Берем только первые 2 элемента
+        items = soup.find_all('div', class_='grid-item box blue')[:2] #pocet main letakov
         
         for item in items:
             try:
-                # Название проспекта
+                # nazov1
                 title_element = item.select_one('p.grid-item-content strong')
                 title = title_element.text.strip() if title_element else "No Title"
 
-                # Миниатюра
+                # picture
                 thumbnail_element = item.select_one('img')
                 thumbnail = thumbnail_element['src'] if thumbnail_element and 'src' in thumbnail_element.attrs else "No Thumbnail"
 
-                # Название магазина (извлекаем из URL)
+                # nazov of store
                 shop_url = item.select_one('a')['href'] if item.select_one('a') else ""
                 shop_name = shop_url.split('/')[1].capitalize() if shop_url else "Unknown Shop"
 
-                # Дата действия проспекта
                 date_element = item.select_one('small.hidden-sm') or item.select_one('small.visible-sm')
                 date_text = date_element.text.strip() if date_element else "Unknown Dates"
 
                 valid_from, valid_to = self.parse_dates(date_text)
                 parsed_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-                # Создание объекта проспекта
+                # создание объекта проспекта
                 prospekt = {
                     "title": title,
                     "thumbnail": thumbnail,
@@ -149,11 +148,11 @@ class ProspektScraper:
             if category_html:
                 prospekts = self.parse_prospekts(category_html)
                 all_prospekts.extend(prospekts)
-            time.sleep(1)  # Avoid too many requests in a short time
+            time.sleep(1) 
         
         print(f"Found total {len(all_prospekts)} prospekts.")
         self.save_to_json(all_prospekts)
-        self.driver.quit()  # Закрытие Selenium WebDriver
+        self.driver.quit()
 
 if __name__ == "__main__":
     scraper = ProspektScraper()
