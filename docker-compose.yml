@@ -1,0 +1,10 @@
+version: '3'
+services:
+  scraper:
+    build: .
+    container_name: prospekt_scraper
+    volumes:
+      - ./output:/app/output
+    environment:
+      - DISPLAY=:99
+    restart: always
