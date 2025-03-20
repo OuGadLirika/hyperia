@@ -5,7 +5,7 @@
         "shop_name": "Aez",
         "valid_from": "2025-01-20",
         "valid_to": "2025-05-10",
-        "parsed_time": "2025-03-17 14:17:06"
+        "parsed_time": "2025-03-20 15:20:01"
     },
     {
         "title": "Prospekt",
@@ -13,7 +13,7 @@
         "shop_name": "Aez",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:06"
+        "parsed_time": "2025-03-20 15:20:01"
     },
     {
         "title": "Prospekt",
@@ -21,7 +21,7 @@
         "shop_name": "Aldi",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:07"
+        "parsed_time": "2025-03-20 15:20:02"
     },
     {
         "title": "Prospekt",
@@ -29,7 +29,7 @@
         "shop_name": "Aldi",
         "valid_from": "2025-03-24",
         "valid_to": "2025-03-29",
-        "parsed_time": "2025-03-17 14:17:07"
+        "parsed_time": "2025-03-20 15:20:02"
     },
     {
         "title": "Prospekt",
@@ -37,7 +37,7 @@
         "shop_name": "Aldi-sud",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:11"
+        "parsed_time": "2025-03-20 15:20:04"
     },
     {
         "title": "Prospekt",
@@ -45,7 +45,7 @@
         "shop_name": "Aldi-sud",
         "valid_from": "2025-03-31",
         "valid_to": "2025-04-05",
-        "parsed_time": "2025-03-17 14:17:11"
+        "parsed_time": "2025-03-20 15:20:04"
     },
     {
         "title": "Prospekt",
@@ -53,23 +53,23 @@
         "shop_name": "Alnatura",
         "valid_from": "2025-03-01",
         "valid_to": "2025-03-31",
-        "parsed_time": "2025-03-17 14:17:12"
+        "parsed_time": "2025-03-20 15:20:06"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:17:12"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:20:06"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:17:14"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:20:08"
     },
     {
         "title": "Prospekt",
@@ -77,7 +77,7 @@
         "shop_name": "Edeka",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:14"
+        "parsed_time": "2025-03-20 15:20:08"
     },
     {
         "title": "Prospekt",
@@ -85,15 +85,15 @@
         "shop_name": "Cc",
         "valid_from": "2025-03-10",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:17"
+        "parsed_time": "2025-03-20 15:20:10"
     },
     {
         "title": "Prospekt",
-        "thumbnail": "No Thumbnail",
-        "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:17:17"
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/KIwIgH9lGaKM10TrGSc0DC-O0HQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/187/347340/0.jpg?t=1742457614",
+        "shop_name": "Cc",
+        "valid_from": "2025-03-24",
+        "valid_to": "2025-04-05",
+        "parsed_time": "2025-03-20 15:20:10"
     },
     {
         "title": "Prospekt",
@@ -101,31 +101,31 @@
         "shop_name": "Cap-markt",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:19"
+        "parsed_time": "2025-03-20 15:20:12"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:17:19"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:20:12"
     },
     {
-        "title": "Prospekt",
-        "thumbnail": "https://eu.leafletscdns.com/thumbor/PQhbytU7nB2ON5M83hsCzFnD_FQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/332979/0.jpg?t=1741702210",
+        "title": "Dänemark-Werbung",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/NYoikJJp-TCWO-ejqC401UehApk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/340998/0.jpg?t=1742368237",
         "shop_name": "Citti-markt",
-        "valid_from": "2025-03-12",
-        "valid_to": "2025-03-18",
-        "parsed_time": "2025-03-17 14:17:21"
+        "valid_from": "2025-03-19",
+        "valid_to": "2025-04-08",
+        "parsed_time": "2025-03-20 15:20:14"
     },
     {
-        "title": "Imbiss-Hits für Profis",
-        "thumbnail": "https://eu.leafletscdns.com/thumbor/byXnaipSxu8RxPy17HD3JPiHlq4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/334428/0.jpg?t=1741759870",
+        "title": "Rum aus aller Welt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/UliZsHaeBjxyLU7m3FHY8PQ8FVQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/340884/0.jpg?t=1742297895",
         "shop_name": "Citti-markt",
-        "valid_from": "2025-03-12",
-        "valid_to": "2025-04-22",
-        "parsed_time": "2025-03-17 14:17:21"
+        "valid_from": "2025-03-19",
+        "valid_to": "2025-04-01",
+        "parsed_time": "2025-03-20 15:20:14"
     },
     {
         "title": "Prospekt",
@@ -133,15 +133,15 @@
         "shop_name": "Combi",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:23"
+        "parsed_time": "2025-03-20 15:20:16"
     },
     {
-        "title": "Wochenknaller",
-        "thumbnail": "https://eu.leafletscdns.com/thumbor/0IE6RFm7RSeM9saBWbZgs3A5LEM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/12/336333/0.jpg?t=1742031492",
+        "title": "Dreitag-Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/ar8457pDc6EX4qX65sPhewA5Qik=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/12/347307/0.jpg?t=1742454866",
         "shop_name": "Combi",
-        "valid_from": "2025-03-16",
-        "valid_to": "2025-03-23",
-        "parsed_time": "2025-03-17 14:17:23"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-22",
+        "parsed_time": "2025-03-20 15:20:16"
     },
     {
         "title": "Prospekt",
@@ -149,15 +149,15 @@
         "shop_name": "Diska",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:25"
+        "parsed_time": "2025-03-20 15:20:18"
     },
     {
-        "title": "Bayern",
-        "thumbnail": "https://eu.leafletscdns.com/thumbor/E_cyAoK0RrFMRQV07YAI8tIR0qk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/243/336021/0.jpg?t=1741846157",
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/6JaDh-MnSQ_Fs7CMN4CHFM8ZkK8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/243/347313/0.jpg?t=1742453896",
         "shop_name": "Diska",
-        "valid_from": "2025-03-17",
-        "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:25"
+        "valid_from": "2025-03-24",
+        "valid_to": "2025-03-29",
+        "parsed_time": "2025-03-20 15:20:18"
     },
     {
         "title": "Prospekt Stutgart",
@@ -165,15 +165,15 @@
         "shop_name": "Edeka",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:27"
+        "parsed_time": "2025-03-20 15:20:19"
     },
     {
         "title": "Prospekt Magdeburg",
-        "thumbnail": "https://eu.leafletscdns.com/thumbor/W29hzwRK3q56axC6Snh7dV50UcM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/11/340680/0.jpg?t=1742193112",
+        "thumbnail": "No Thumbnail",
         "shop_name": "Edeka",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:27"
+        "parsed_time": "2025-03-20 15:20:19"
     },
     {
         "title": "Prospekt",
@@ -181,7 +181,7 @@
         "shop_name": "Edeka-struve",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:29"
+        "parsed_time": "2025-03-20 15:20:21"
     },
     {
         "title": "Wein– und Spirituosen",
@@ -189,7 +189,7 @@
         "shop_name": "Edeka-struve",
         "valid_from": "2024-11-07",
         "valid_to": "2025-03-31",
-        "parsed_time": "2025-03-17 14:17:29"
+        "parsed_time": "2025-03-20 15:20:21"
     },
     {
         "title": "Prospekt",
@@ -197,15 +197,15 @@
         "shop_name": "Edeka-zurheide",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:31"
+        "parsed_time": "2025-03-20 15:20:23"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:17:31"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:20:23"
     },
     {
         "title": "Prospekt",
@@ -213,15 +213,15 @@
         "shop_name": "Famila",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:33"
+        "parsed_time": "2025-03-20 15:20:24"
     },
     {
-        "title": "Fischmarkt",
-        "thumbnail": "https://eu.leafletscdns.com/thumbor/PXOrLZfewgIDs5yWia1VJk4QJeY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/336159/0.jpg?t=1741947183",
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/DL94-O209nDPgEzuSJENvcFDwq4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/341007/0.jpg?t=1742369713",
         "shop_name": "Famila",
-        "valid_from": "2025-03-17",
+        "valid_from": "2025-03-24",
         "valid_to": "2025-03-29",
-        "parsed_time": "2025-03-17 14:17:33"
+        "parsed_time": "2025-03-20 15:20:24"
     },
     {
         "title": "Prospekt",
@@ -229,7 +229,7 @@
         "shop_name": "Famila-nordwest",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:36"
+        "parsed_time": "2025-03-20 15:20:26"
     },
     {
         "title": "Preishammer",
@@ -237,23 +237,23 @@
         "shop_name": "Famila-nordwest",
         "valid_from": "2025-03-18",
         "valid_to": "2025-03-24",
-        "parsed_time": "2025-03-17 14:17:36"
+        "parsed_time": "2025-03-20 15:20:26"
     },
     {
         "title": "Angebote",
-        "thumbnail": "https://eu.leafletscdns.com/thumbor/IfgEqcWevXqliAyXbtiuaviuOTs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/185/336075/0.jpg?t=1742076619",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/gPIxXuQufaPsfjHCmOC5AEe5dfI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/185/347127/0.jpg?t=1742445947",
         "shop_name": "Feneberg",
-        "valid_from": "2025-03-20",
-        "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:40"
+        "valid_from": "2025-03-27",
+        "valid_to": "2025-03-29",
+        "parsed_time": "2025-03-20 15:20:27"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:17:40"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:20:27"
     },
     {
         "title": "Prospekt",
@@ -261,23 +261,23 @@
         "shop_name": "Getranke-quelle",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-29",
-        "parsed_time": "2025-03-17 14:17:42"
+        "parsed_time": "2025-03-20 15:20:29"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:17:42"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:20:29"
     },
     {
         "title": "Mittwochs Kracher",
-        "thumbnail": "https://eu.leafletscdns.com/thumbor/hO-I-YG3sx3ww0dHez9Z526SFMY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/193/336018/0.jpg?t=1741845593",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/sxYozbUuJVgBBPQu7O-Qbixy87I=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/193/347310/0.jpg?t=1742451614",
         "shop_name": "Getrankeland",
-        "valid_from": "2025-03-19",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:17:46"
+        "valid_from": "2025-03-26",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:20:31"
     },
     {
         "title": "Prospekt",
@@ -285,23 +285,23 @@
         "shop_name": "Getrankeland",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-29",
-        "parsed_time": "2025-03-17 14:17:46"
+        "parsed_time": "2025-03-20 15:20:31"
     },
     {
-        "title": "Prospekt",
-        "thumbnail": "No Thumbnail",
-        "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:17:50"
-    },
-    {
-        "title": "Prospekt",
-        "thumbnail": "No Thumbnail",
-        "shop_name": "Norma",
+        "title": "Hamburg, Grandkuhlenweg 11",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/cUFJMFft7Xniqbja6OOJYQCaoEI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337926/0.jpg?t=1742224850",
+        "shop_name": "Globus",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:50"
+        "parsed_time": "2025-03-20 15:20:32"
+    },
+    {
+        "title": "Essen, Haedenkampstraße 21",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/DEP8KcMHhe7uN-emhMsozRHKvnM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337965/0.jpg?t=1742224850",
+        "shop_name": "Globus",
+        "valid_from": "2025-03-17",
+        "valid_to": "2025-03-22",
+        "parsed_time": "2025-03-20 15:20:32"
     },
     {
         "title": "Ihr super Wochenende",
@@ -309,7 +309,7 @@
         "shop_name": "Herkules",
         "valid_from": "2025-03-20",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:52"
+        "parsed_time": "2025-03-20 15:20:34"
     },
     {
         "title": "Bau & Garten",
@@ -317,7 +317,7 @@
         "shop_name": "Herkules",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:52"
+        "parsed_time": "2025-03-20 15:20:34"
     },
     {
         "title": "Berlin",
@@ -325,7 +325,7 @@
         "shop_name": "Hit",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:55"
+        "parsed_time": "2025-03-20 15:20:36"
     },
     {
         "title": "Mecklenburg-Vorpommern",
@@ -333,7 +333,7 @@
         "shop_name": "Hit",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:55"
+        "parsed_time": "2025-03-20 15:20:36"
     },
     {
         "title": "Prospekt",
@@ -341,15 +341,15 @@
         "shop_name": "Holab",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:17:57"
+        "parsed_time": "2025-03-20 15:20:37"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:17:57"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:20:37"
     },
     {
         "title": "Prospekt",
@@ -357,31 +357,31 @@
         "shop_name": "Inkoop",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:00"
+        "parsed_time": "2025-03-20 15:20:39"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:18:00"
-    },
-    {
-        "title": "Hamburg, Bergedorfer Straße 106",
-        "thumbnail": "https://eu.leafletscdns.com/thumbor/ct4aeRdNtfB1gLGlWGxZ4Ck_dew=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/338946/0.jpg?t=1742112429",
-        "shop_name": "Kaufland",
         "valid_from": "2025-03-20",
         "valid_to": "2025-03-26",
-        "parsed_time": "2025-03-17 14:18:06"
+        "parsed_time": "2025-03-20 15:20:39"
     },
     {
         "title": "Frankfurt (Oder), Heilbronner Straße 30",
-        "thumbnail": "https://eu.leafletscdns.com/thumbor/8eNE6zBMo9s2_nnoLNUSTHUyyCA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/338949/0.jpg?t=1742112282",
+        "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
         "valid_from": "2025-03-20",
         "valid_to": "2025-03-26",
-        "parsed_time": "2025-03-17 14:18:06"
+        "parsed_time": "2025-03-20 15:20:41"
+    },
+    {
+        "title": "Prospekt",
+        "thumbnail": "No Thumbnail",
+        "shop_name": "Edeka",
+        "valid_from": "2025-03-17",
+        "valid_to": "2025-03-22",
+        "parsed_time": "2025-03-20 15:20:41"
     },
     {
         "title": "Prospekt",
@@ -389,15 +389,15 @@
         "shop_name": "Klaas-kock",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:08"
+        "parsed_time": "2025-03-20 15:20:43"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:18:08"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:20:43"
     },
     {
         "title": "Prospekt",
@@ -405,15 +405,15 @@
         "shop_name": "Kodi",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:11"
+        "parsed_time": "2025-03-20 15:20:45"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:18:11"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:20:45"
     },
     {
         "title": "Jahresmagazin",
@@ -421,15 +421,15 @@
         "shop_name": "Konsum-leipzig",
         "valid_from": "2025-02-28",
         "valid_to": "2025-12-31",
-        "parsed_time": "2025-03-17 14:18:13"
+        "parsed_time": "2025-03-20 15:20:47"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:18:13"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:20:47"
     },
     {
         "title": "Hessen",
@@ -437,7 +437,7 @@
         "shop_name": "Lidl",
         "valid_from": "2025-03-31",
         "valid_to": "2025-04-05",
-        "parsed_time": "2025-03-17 14:18:14"
+        "parsed_time": "2025-03-20 15:20:48"
     },
     {
         "title": "Bremen, Hamburg",
@@ -445,7 +445,7 @@
         "shop_name": "Lidl",
         "valid_from": "2025-03-31",
         "valid_to": "2025-04-05",
-        "parsed_time": "2025-03-17 14:18:14"
+        "parsed_time": "2025-03-20 15:20:48"
     },
     {
         "title": "Prospekt",
@@ -453,15 +453,15 @@
         "shop_name": "Mac-geiz",
         "valid_from": "2025-03-31",
         "valid_to": "2025-04-06",
-        "parsed_time": "2025-03-17 14:18:16"
+        "parsed_time": "2025-03-20 15:20:50"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:18:16"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:20:50"
     },
     {
         "title": "Prospekt",
@@ -469,7 +469,7 @@
         "shop_name": "Markant",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:18"
+        "parsed_time": "2025-03-20 15:20:53"
     },
     {
         "title": "Mittagstisch",
@@ -477,7 +477,7 @@
         "shop_name": "Markant",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:18"
+        "parsed_time": "2025-03-20 15:20:53"
     },
     {
         "title": "Sachsen-Anhalt",
@@ -485,7 +485,7 @@
         "shop_name": "Marktkauf",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:20"
+        "parsed_time": "2025-03-20 15:20:54"
     },
     {
         "title": "Thüringen",
@@ -493,7 +493,7 @@
         "shop_name": "Marktkauf",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:20"
+        "parsed_time": "2025-03-20 15:20:54"
     },
     {
         "title": "Wochenangebote Gastro",
@@ -501,7 +501,7 @@
         "shop_name": "Metro",
         "valid_from": "2025-08-25",
         "valid_to": "2025-08-30",
-        "parsed_time": "2025-03-17 14:18:23"
+        "parsed_time": "2025-03-20 15:20:56"
     },
     {
         "title": "Wochenangebote",
@@ -509,7 +509,7 @@
         "shop_name": "Metro",
         "valid_from": "2025-08-25",
         "valid_to": "2025-08-30",
-        "parsed_time": "2025-03-17 14:18:23"
+        "parsed_time": "2025-03-20 15:20:56"
     },
     {
         "title": "Prospekt",
@@ -517,15 +517,15 @@
         "shop_name": "Mix-markt",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-23",
-        "parsed_time": "2025-03-17 14:18:24"
+        "parsed_time": "2025-03-20 15:20:58"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:18:24"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:20:58"
     },
     {
         "title": "Prospekt",
@@ -533,15 +533,15 @@
         "shop_name": "Nah-gut",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:28"
+        "parsed_time": "2025-03-20 15:21:00"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:18:28"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:21:00"
     },
     {
         "title": "Prospekt",
@@ -549,15 +549,15 @@
         "shop_name": "Nahkauf",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:30"
+        "parsed_time": "2025-03-20 15:21:02"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:18:30"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:21:02"
     },
     {
         "title": "Prospekt",
@@ -565,7 +565,7 @@
         "shop_name": "Netto",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:33"
+        "parsed_time": "2025-03-20 15:21:04"
     },
     {
         "title": "Prospekt",
@@ -573,7 +573,7 @@
         "shop_name": "Netto",
         "valid_from": "2025-03-24",
         "valid_to": "2025-03-29",
-        "parsed_time": "2025-03-17 14:18:33"
+        "parsed_time": "2025-03-20 15:21:04"
     },
     {
         "title": "Netto: Wochenangebote",
@@ -581,7 +581,7 @@
         "shop_name": "Netto-marken-discount",
         "valid_from": "2025-03-16",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:35"
+        "parsed_time": "2025-03-20 15:21:07"
     },
     {
         "title": "Netto: Wochenangebote",
@@ -589,7 +589,7 @@
         "shop_name": "Netto-marken-discount",
         "valid_from": "2025-03-16",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:35"
+        "parsed_time": "2025-03-20 15:21:07"
     },
     {
         "title": "Prospekt",
@@ -597,7 +597,7 @@
         "shop_name": "Norma",
         "valid_from": "2025-03-24",
         "valid_to": "2025-03-29",
-        "parsed_time": "2025-03-17 14:18:37"
+        "parsed_time": "2025-03-20 15:21:08"
     },
     {
         "title": "Onlineshop",
@@ -605,7 +605,7 @@
         "shop_name": "Norma",
         "valid_from": "2025-03-24",
         "valid_to": "2025-03-30",
-        "parsed_time": "2025-03-17 14:18:37"
+        "parsed_time": "2025-03-20 15:21:08"
     },
     {
         "title": "Prospekt",
@@ -613,15 +613,15 @@
         "shop_name": "Np-discount",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:38"
+        "parsed_time": "2025-03-20 15:21:11"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:18:38"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:21:11"
     },
     {
         "title": "Prospekt",
@@ -629,23 +629,23 @@
         "shop_name": "Penny",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:41"
+        "parsed_time": "2025-03-20 15:21:13"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:18:41"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:21:13"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
-        "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:18:43"
+        "shop_name": "Edeka",
+        "valid_from": "2025-03-17",
+        "valid_to": "2025-03-22",
+        "parsed_time": "2025-03-20 15:21:15"
     },
     {
         "title": "Prospekt",
@@ -653,7 +653,7 @@
         "shop_name": "Norma",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:43"
+        "parsed_time": "2025-03-20 15:21:15"
     },
     {
         "title": "Prospekt",
@@ -661,23 +661,15 @@
         "shop_name": "Rewe-ihr-kaufpark",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-23",
-        "parsed_time": "2025-03-17 14:18:45"
+        "parsed_time": "2025-03-20 15:21:17"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:18:45"
-    },
-    {
-        "title": "Obst & Gemüse",
-        "thumbnail": "https://eu.leafletscdns.com/thumbor/8Mo73sJ7_WLJ9AAZ0jCJTgeI9e4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/332943/0.jpg?t=1741946171",
-        "shop_name": "Selgros",
-        "valid_from": "2025-03-11",
-        "valid_to": "2025-03-17",
-        "parsed_time": "2025-03-17 14:18:48"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:21:17"
     },
     {
         "title": "Feinkost für Ostern",
@@ -685,7 +677,15 @@
         "shop_name": "Selgros",
         "valid_from": "2025-03-06",
         "valid_to": "2025-04-19",
-        "parsed_time": "2025-03-17 14:18:48"
+        "parsed_time": "2025-03-20 15:21:19"
+    },
+    {
+        "title": "Außengastronomie",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/td6l-5QlJG-EWhS1_mi64xD4FhM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/273645/0.jpg?t=1737102972",
+        "shop_name": "Selgros",
+        "valid_from": "2025-01-23",
+        "valid_to": "2025-04-30",
+        "parsed_time": "2025-03-20 15:21:19"
     },
     {
         "title": "Prospekt",
@@ -693,15 +693,15 @@
         "shop_name": "Simmel",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:50"
+        "parsed_time": "2025-03-20 15:21:22"
     },
     {
-        "title": "Bayern",
-        "thumbnail": "https://eu.leafletscdns.com/thumbor/fsK3HJBH07eE5TWruhs4y4JYT_I=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/228/336117/0.jpg?t=1741931986",
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/lRVPy0ym6cfViuApDj061xeIyNY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/228/347361/0.jpg?t=1742463737",
         "shop_name": "Simmel",
-        "valid_from": "2025-03-17",
-        "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:50"
+        "valid_from": "2025-03-24",
+        "valid_to": "2025-03-29",
+        "parsed_time": "2025-03-20 15:21:22"
     },
     {
         "title": "Prospekt",
@@ -709,15 +709,15 @@
         "shop_name": "Spar-express",
         "valid_from": null,
         "valid_to": null,
-        "parsed_time": "2025-03-17 14:18:52"
+        "parsed_time": "2025-03-20 15:21:24"
     },
     {
-        "title": "Prospekt",
-        "thumbnail": "https://eu.leafletscdns.com/thumbor/JvzTCL5RjN1tdslboys_yvkDKmY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/328347/0.jpg?t=1741731019",
+        "title": "Der Wochenstart",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/0ldQO32F6EuCkuUj8g41qucLKLI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/340860/0.jpg?t=1742280803",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:18:52"
+        "valid_from": "2025-03-18",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:21:24"
     },
     {
         "title": "Bayern",
@@ -725,7 +725,7 @@
         "shop_name": "Tegut",
         "valid_from": "2025-03-20",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:54"
+        "parsed_time": "2025-03-20 15:21:26"
     },
     {
         "title": "Thüringen",
@@ -733,23 +733,23 @@
         "shop_name": "Tegut",
         "valid_from": "2025-03-20",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:18:54"
+        "parsed_time": "2025-03-20 15:21:26"
     },
     {
         "title": "Angebote Hallertau/Oberpfalz",
-        "thumbnail": "https://eu.leafletscdns.com/thumbor/KmgUTWIxgmJIyv064STio6W5vkg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/62/336063/0.jpg?t=1741854834",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/KmgUTWIxgmJIyv064STio6W5vkg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/62/336063/0.jpg?t=1742335818",
         "shop_name": "V-markt",
         "valid_from": "2025-03-20",
         "valid_to": "2025-03-26",
-        "parsed_time": "2025-03-17 14:18:58"
+        "parsed_time": "2025-03-20 15:21:28"
     },
     {
-        "title": "Fischangebote München",
-        "thumbnail": "https://eu.leafletscdns.com/thumbor/QxX1F_eU2G1ddVNWB5SS30TqAnA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/62/336066/0.jpg?t=1741851147",
+        "title": "Angebote Hallertau/Oberpfalz",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/TCab979Z9exuTo20upF4f1hVbIk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/62/347352/0.jpg?t=1742456448",
         "shop_name": "V-markt",
-        "valid_from": "2025-03-20",
+        "valid_from": "2025-03-27",
         "valid_to": "2025-04-02",
-        "parsed_time": "2025-03-17 14:18:58"
+        "parsed_time": "2025-03-20 15:21:28"
     },
     {
         "title": "Prospekt",
@@ -757,15 +757,15 @@
         "shop_name": "Wasgau",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:19:00"
+        "parsed_time": "2025-03-20 15:21:30"
     },
     {
         "title": "Prospekt",
         "thumbnail": "No Thumbnail",
         "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:19:00"
+        "valid_from": "2025-03-20",
+        "valid_to": "2025-03-26",
+        "parsed_time": "2025-03-20 15:21:30"
     },
     {
         "title": "Prospekt",
@@ -773,14 +773,14 @@
         "shop_name": "Wez",
         "valid_from": "2025-03-10",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 14:19:02"
+        "parsed_time": "2025-03-20 15:21:32"
     },
     {
         "title": "Prospekt",
-        "thumbnail": "No Thumbnail",
-        "shop_name": "Kaufland",
-        "valid_from": "2025-03-13",
-        "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 14:19:02"
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/6N-VNYQ8X-nj2uPHOhhz3I0PQK8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/194/347124/0.jpg?t=1742445681",
+        "shop_name": "Wez",
+        "valid_from": "2025-03-24",
+        "valid_to": "2025-03-29",
+        "parsed_time": "2025-03-20 15:21:32"
     }
 ]
